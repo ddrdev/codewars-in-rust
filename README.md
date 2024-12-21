@@ -13,3 +13,4 @@ This repository contains my solutions to [CodeWars](https://www.codewars.com) ka
 - [Points of Reflection](src/kyu_8/symmetric_point.rs) | [Kata Link](https://www.codewars.com/kata/57bfea4cb19505912900012c)
 - [Pirates!! Are the Cannons ready!??](src/kyu_8//cannons_ready.rs) | [Kata Link](https://www.codewars.com/kata/5748a883eb737cab000022a6)
 - [Get Nth Even Number](src/kyu_8/nth_even.rs) | [Kata Link](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
+- [Hello, Name or World!](src/kyu_8//hello.rs) | [Kata Link](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
