@@ -19,3 +19,4 @@ This repository contains my solutions to [CodeWars](https://www.codewars.com) ka
 ### 7 kyu
 
 - [Circle area inside square](src/kyu_7/square_area_to_circle.rs) | [Kata Link](https://www.codewars.com/kata/5899aa695401a83a5c0000c4)
+- [Target Date](src/kyu_7/date_nb_days.rs) | [Kata Link](https://www.codewars.com/kata/569218bc919ccba77000000b)
